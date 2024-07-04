@@ -3,7 +3,7 @@ This project aims to create a web application that can detect sign language usin
 
 ## Installation<br>
 1.Clone this repository:<br>
-https://github.com/yourusername/sign-language-detection.git
+https://github.com/sanjai002/Hand-Gesture-Based-Sign-Language-Recognition-using-CNN.git
 
 2.Install the required dependencies using the command<br>
 python -r requirements.txt
